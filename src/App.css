@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+}
+
+.appHeading {
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
